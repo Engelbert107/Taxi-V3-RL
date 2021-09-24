@@ -9,7 +9,7 @@ such as:
 
 <br>
 <div align="Center">
-    <img src="./assets/demo.gif" width=500>
+    <img src="./demo.gif" width=500>
 </div>
 
 ## Install
@@ -77,5 +77,5 @@ OpenAI Gym defines ["solving"](https://gym.openai.com/envs/Taxi-v3/) this task a
 The following figure shows the performance of the different algorithms in this repo:
 
 <div align="Center">
-    <img src="./assets/Figure_1.png" width=500>
+    <img src="./Figure_1.png" width=500>
 </div>
