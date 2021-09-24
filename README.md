@@ -1,4 +1,6 @@
 # Taxi-v3 Environment
+The report of this work is found in <a href="https://github.com/Engelbert107/Taxi-V3-RL/blob/main/Taxi-V3%20Group%201%20.pdf"> report file </a>
+
 My attempt to solve the taxi-v3 OpenAI gym environment using various algorithms
 such as:
 
